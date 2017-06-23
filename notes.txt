@@ -1,0 +1,10 @@
+The "juvenile data" file is a csv and contains juvenile capture data from years 1996-2015.
+The column headings are: "female" is 1 = yes and 0 = no; "year" is the year; "temp" is the temperature in degrees C for the
+prior 12 months; and "precip" is the precipitation in mm for the prior 12 months.   
+
+The "juvenile proportion" file is a csv with proportion of juveniles that were females based on capture data from years 1996-2015.
+The column headings are: "Year" is the year; "Number" is the number of juveniles captured; "F_proportion" is the proportion female; 
+"Temp" is the temperature is degrees C for the prior 12 months; and "Precip" is the precipitation in mm for the prior 12 months.    
+
+The "logistic regression analysis" file is an annotated R file used for logistic regression analysis.
+ 
